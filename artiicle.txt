@@ -1,0 +1,58 @@
+https://pratieksaini.medium.com/time-travel-with-python3-7180c8f3da7d
+
+
+
+
+
+So, I know that the heading is quite misleading but I know that after you read it, you won’t think it was that misleading. So what is time travel, I’m not very sure about it but I know something else. Something far more interesting from the contrary. I usually write in a sense that anyone can understand. Whether it be a person from IT background or someone from not so IT background,lol. But this post is more than that, it’s about something more than that. So like every kid or adult that I know who ever had the chance to watch harry potter, might’ve seen one common thing. Straight away, Emma Watson became hot after the prisoner of azkaban. She’s older than me, I can say that she was 15. So anyway, I am in an alternative universe. I tried to impress her, she actually got impressed but the problem is age gap. She’s 8 years older than me, although she likes me( in an alternate universe) I can’t marry her. What people will say, they can’t handle TMKOC stars hooking up because of the age gap. So I ask her to do something for me, I asked her if she be ready to board a ship and disappear for almost a year or so. She agreed. BTW why the heck people are ready to do so much in the name of love I think.
+Anyway, she didn’t knew what I was building. I built her a train travelling at the speed of light, yeah you science freaks I know nothing can travel at the speed of light, but you idiots is Emma in a relationship with me?
+So after a year of travelling at the speed of light, how many years do you think have passed?
+Well, some of you might say 5 years on earth after watching that Stephen hawking series, even I did. But let’s do the math of it.
+So in my universe, Einstein is alive married to Marilyn Monroe and he is a good friend with Nikola Tesla. Actually Tesla helped me built this train. So Einstein Theory of relativity is actually divided into two parts, as Nikola told me, actually Albert and Marilyn are in their private space, from here on I’ll write everything that Nikola told me and my stupid replies at times.
+Nikola:- So the theory of relativity could be broadly divided into two parts.
+Me :- So basically just like genders, huh?
+A light came blazing down from his phone, and gave me a shock.
+Nikola :- You idiot, what are you trying to do get us killed, there’s binary digits and yet you made the connection with genders. That’s the fucking reason that the speed of light is faster than the speed of sound, you were looking a fine boy until you speak.
+I kept quite for the rest and let him speak,
+Nikola:- So the theory of relativity developed by him could be broadly divided into two, just like the binary digits. The theory is divided into theory of general relativity and theory of special relativity. Now for your thing that you want to marry that girl and not create a controversy out of it, I would give you exactly what you need. A full guidance to the theory of special relativity. But since I am too waiting for 2pac to come with snoop d-o-double g and some bad bitches, i’ll be telling you the important part that’s time dilation. Time dilation is the particular part that you want to focus on.
+Suppose you are in a train, when you’re gazing outside the window, you see that man or a woman taking a dumb looking directly at the train right. Now when you look at them and since you’re in a fast moving train going at speeds of 60–70 km/hr, you’ll see that you’ll see the person for a longer duration than the person who saw you. But that’s just perspective, for lower speeds right?
+I was too scared to interrupt*
+But when someone goes at the speed of light, in that same vehicle the time on the respective mechanical clocks on the viewer and that on the traveller in that train given that the viewer in at stationary position would’ve different time. Time limits would be changed. The time will pass slower for the one on the train. Time from an entity of universe to a psychological phenomenon is nothing less than god.
+In awe of his brilliance, in that last line of enlightenment i was sitting and admiring his true genius and suddenly a Cadillac pulled next the house, 2 pac was sitting quietly and snoop d-o- double g looked and called, you my boi N-I-K ola, Humphrey davy with us, wanna hop in. Tesla went, and I too. He came the next day to get me my love. But before that he had something more important to do. Some odds were to be even.
+Newspaper came the next day, Edison was killed in a drive by, a bulb was fitted in his mouth with a AC motor to power it. Ironically he shited his pants, but it was compared to shite of elephant.
+So now after knowing everything and understanding how i got it, let’s get back to work with python 3.
+
+equation for time dilation
+Time dilation equation is this
+what this equation means is a whole fuck up story, not from science perspective but from perspective of a person who was studying it for no apparent reason but just to enjoy the beauty of it.
+See the way the equation is the major problem in this equation are two, you can’t go beyond the speed of light the second is that if some object is traveling at the speed of light( equation shatters into pieces as the only solution is to make it 0 that’s an exception since you can’t divide it by t. So how will you be able to get the results that you need, actually there’s no one way to do so. But one important thing
+If the value of v is increased substantially irrespective to that of c, you’ll see no major change in the graph. There’s literally nothing you’ll see. I’ve done this for thousands of parts of c, then a million parts. Every single time until the value isn’t something of importance you see absolutely nothing.
+So in order to calculate it, I wrote the whole equation out, for how long emma had to stay, on that train. And what should be the velocity of the train. Right here the time passed be in seconds.
+
+speed of light approaching .
+If you look closely to the graph, the speed of light as it approaches towards after a while only after the train will be atleast on 1/100 of the speed of light the result would even start.
+The speed of light is c=299792458 so that means 1/100 of c that’s 2997924.58 m/sec
+So with such a low speed too she would be making round 846 rounds of earth per hour. Ah, she was riding a broom stick in harry potter, it’s nothing in comparison to that.
+
+Time when accounted for with 2 years on earth
+With various speed of light based velocity changes the value will rise efficiently, but the major changes will be shown once the speed of light 60/100th part is achieved and kept.
+
+the total rotation she be making.
+Then she would be able to stay young while I age bit by bit. The time for her would be paused. It would be then and then only that the plan of mine would be a success. But isn’t there something some facts about it, yeah there are, once at that speed, once at that pace that we’re talking, there had to be loads of g force. But here are the amount of circles she would make of earth as she approaches the speed of light. Now in good faith of the beauty of emma, I am not calculating it with respect to angular velocity. Almost 7 rotation per second at that speed. Isn’t this amazing.
+Just amused by coming of the number 7, the number of chakras, in hinduism the number of times you will end up with the same person, in after-life and everything. Sapt-rishi. And similarly 7. Spending 1 year on the train and spending 7 years on earth. Maybe I am just correlating stuff, maybe I am just seeing things but it is beautiful. Beautiful in it’s own sense.
+With this thought of mine, I swiftly passed away in my sleep, only to realize to be wake up in my dimension. It was all a dream, come true. Maybe time dilation is long road ahead. But the thought of it is beautiful, it makes us wonder about the possibilities and it makes us realize, even with our ego’s or attitudes we’re nothing but a bunch of organism by luck existing on a planet.
+The below graph is of speed of the fastest object we’ve built till now, the fastest one’s there speed are given in meter per second in order to understand them better.
+
+Plotted on with the highest possibility of where we might be in race.
+
+object with their speed
+In the coming years maybe we might overcome these problems, maybe find an efficient tool, maybe even find something that gives energy to make any mass reach the speed of light, without loosing it’s form. That day in the other dimension, I’ll meet Emma.
+If you like this please follow. Thank you.
+Prateek Saini
+Reticent, logophile, aesthetic, inquisitive, agathokakological, gallivant and aloof. And i lack empathy.
+
+
+
+
+
+
